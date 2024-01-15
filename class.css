@@ -1,0 +1,63 @@
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.box {
+    text-align: center;
+    border: solid black 2px;
+    border-radius: 15px;
+    width: 90%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.input-underline {
+    outline: none;
+    border: none;
+    border-bottom: solid skyblue 2px;
+}
+
+.a-button-purple {
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    border: solid purple 2px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: larger;
+}
+
+.a-button-yellow {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    border: solid yellow 2px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: larger;
+}
+
+.a-button-greenyellow {
+    text-decoration: none;
+    background-color: greenyellow;
+    color: black;
+    border: solid greenyellow 2px;
+    border-radius: 15px;
+    padding: 5px;
+    font-size: larger;
+}
+
+.nav-bar {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+}

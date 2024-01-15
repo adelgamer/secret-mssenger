@@ -1,0 +1,11 @@
+img {
+    width: 50%;
+}
+
+body {
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    background-image: linear-gradient(purple, violet);
+    color: white;
+}

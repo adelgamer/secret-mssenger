@@ -1,0 +1,123 @@
+body {
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    width: 95%;
+    /* background-image: url(icons/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-image: linear-gradient(purple, violet);
+    color: white;
+}
+
+ol {
+    text-align: left;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    padding-left: 0%;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: indigo;
+    height: 50px;
+    padding-top: 10px;
+    z-index: 1;
+}
+
+#image {
+    width: 30%;
+}
+
+#signup {
+    margin-right: 50%;
+    border: solid white 2px;
+    border-radius: 20px;
+    color: black;
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+#login {
+    border: solid white 2px;
+    border-radius: 20px;
+    background-color: violet;
+    color: white;
+    padding: 5px 5px 5px 5px;
+}
+
+#first {
+    /* color: white; */
+    margin-bottom: 300px;
+}
+
+#second {
+    /* color: white; */
+    margin-bottom: 200px;
+}
+
+#third {
+    /* color: white; */
+    margin-bottom: 200px;
+}
+
+#fourth {
+    /* color: white; */
+    margin-bottom: 200px;
+}
+
+#fifth {
+    /* color: white; */
+    margin-bottom: 200px;
+}
+
+#faq {
+    margin-top: 300px;
+    background-color: purple;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#faq div {
+    margin-bottom: 100px;
+}
+
+#about {
+    border: solid white 2px;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    background-color: purple;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.revert-color {
+    filter: invert(100%);
+}
+
+a {
+    color: yellowgreen;
+}
+
+footer {
+    background-color: indigo;
+    width: 100%;
+}
+
+.anounce {
+    margin-top: 100px;
+    background-color: blueviolet;
+}

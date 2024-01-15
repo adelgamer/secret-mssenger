@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    width: 95%;
+    /* background-image: linear-gradient(purple, violet); */
+    background-color: blueviolet;
+    color: black;
+    height: 400px;
+    background-color: white;
+    width: 90%;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-bottom: solid skyblue 2px;
+}
+
+.user {
+    display: inline-block;
+    width: 100%;
+    border-top: solid black 2px;
+    padding-left: 1px;
+}
+
+.user a {
+    text-decoration: none;
+}

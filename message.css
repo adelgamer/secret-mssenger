@@ -1,0 +1,92 @@
+body {
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    width: 95%;
+    background-color: blueviolet;
+    color: white;
+}
+
+#logo {
+    height: 64;
+    width: 64;
+}
+
+#message {
+    background-color: white;
+    color: black;
+    width: 90%;
+    max-width: 500px;
+    border: solid black 2px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-bottom: solid skyblue 2px;
+}
+
+button {
+    border: solid white 2px;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    background-color: purple;
+}
+
+textarea {
+    resize: none;
+    width: 90%;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    padding-left: 0%;
+    display: inline-block;
+}
+
+#signup {
+    margin-right: 50%;
+    border: solid white 2px;
+    border-radius: 20px;
+    color: black;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+
+#login {
+    border: solid white 2px;
+    border-radius: 20px;
+    background-color: violet;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+b {
+    color: red;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#email-sender {
+    font-size: 13px;
+}

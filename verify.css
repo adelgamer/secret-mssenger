@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    font-size: x-large;
+    font-family: serif;
+    width: 95%;
+    /* background-image: linear-gradient(purple, violet); */
+    background-color: blueviolet;
+    color: white;
+}
+
+#verify {
+    background-color: white;
+    color: black;
+    width: 90%;
+    max-width: 500px;
+    border: solid black 2px;
+    border-radius: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-bottom: solid skyblue 2px;
+}
+
+button {
+    border: solid white 2px;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    background-color: purple;
+}
+
+a {
+    border: solid white 2px;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    background-color: purple;
+}
+
+#red {
+    color: red;
+}
+
+.red {
+    color: red;
+}
+
+#check-email a {
+    text-decoration: none;
+}
+
+#check-email {
+    background-color: white;
+    color: black;
+    margin-bottom: 50px;
+    width: 60%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto
+}

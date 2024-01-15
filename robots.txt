@@ -1,0 +1,3 @@
+User-agent: *
+Noindex:  /home.php/
+Noindex: /message.php/
